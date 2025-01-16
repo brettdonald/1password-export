@@ -1,0 +1,15 @@
+{
+  "name": "1password-export",
+  "version": "1.0.0",
+  "description": "export items from a 1password vault",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@1password/op-js": "^0.1.11"
+  }
+}
